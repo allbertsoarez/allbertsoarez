@@ -1,8 +1,8 @@
 # SOBRE
 ## Eu me chamo Albert Soares, sou professor da rede estadual de Minas Gerais, leciono aulas de matemática e informática.
-
+"é um repositório especial: o seu README.md aparecerá no seu perfil!"
 <!--
-**allbertsoarez/allbertsoarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**allbertsoarez/allbertsoarez** é um ✨ _special_ ✨ repositório especial: o seu `README.md` (this file) aparecerá no seu perfil do GitHUb.
 
 Here are some ideas to get you started:
 👋
