@@ -1,5 +1,5 @@
 # SOBRE
-## Eu me chamo Albert Soares, sou professor da rede estadual de Minas Gerais, leciono aulas de matemática e informática.
+## Eu me chamo Albert Soares, sou professor da rede estadual de Minas Gerais, onde leciono aulas de matemática e informática.
 
 <!--
 **allbertsoarez/allbertsoarez** é um ✨ _special_ ✨ repositório especial: o seu `README.md` (this file) aparecerá no seu perfil do GitHUb.
