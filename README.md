@@ -1,133 +1,17 @@
-<!-- BANNER VISUAL -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Professor%20de%20Matematica%20%26%20Tecnologia&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:818cf8&height=200&section=header&text=Professor%20de%20Matematica%20%26%20Tecnologia&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Professor%20de%20Matematica%20%26%20Tecnologia&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Banner" />
-</picture>
+# SOBRE
+## Eu me chamo Albert Soares, sou professor da rede estadual de Minas Gerais, onde leciono aulas de matemática e informática.
 
-<br>
+<!--
+**allbertsoarez/allbertsoarez** é um ✨ _special_ ✨ repositório especial: o seu `README.md` (this file) aparecerá no seu perfil do GitHUb.
 
-<!-- EFEITO DE DIGITAÇÃO -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1500&color=38bdf8&center=true&vCenter=true&width=600&lines=Transformando+l%C3%B3gica+em+conhecimento+%F0%9F%93%90;Python+%7C+C+%7C+Linux+%7C+LaTeX+%F0%9F%92%BB;Educando+para+o+futuro+digital+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<br>
-
-<!-- SEÇÃO SOBRE MIM -->
-<h2 align="center">👨‍🏫 Sobre Mim</h2>
-<p align="center">
-  Olá! Sou educador e entusiasta da tecnologia, unindo a clareza da <strong>Matemática</strong> com o poder da <strong>Programação</strong>.<br>
-  Minha missão é tornar conceitos complexos acessíveis, seja em uma sala de aula ou através de código.
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="250" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(56, 189, 248, 0.2);" />
-</p>
-
-<h3 align="center">🎓 Formação Acadêmica</h3>
-<p align="center">
-  🎓 <strong>Pós-Graduação</strong> em Sistemas de Informação<br>
-  📐 <strong>Licenciatura</strong> em Matemática<br>
-  📡 <strong>Tecnólogo</strong> em Telecomunicações
-</p>
-
-<br>
-
-<!-- SEÇÃO DE TECNOLOGIAS (Com ícones de IA) -->
-<h2 align="center">🛠️ Linguagens & Ferramentas</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,html,css,linux,sql,latex,git,github,tensorflow,pytorch&theme=dark&perline=5" alt="Tech Stack Icons" />
-  </a>
-  <br>
-  <sub><em>GeoGebra • Configuração de Servidores Linux • Ferramentas de IA</em></sub>
-</p>
-<br>
-
-<!-- SEÇÃO DE DISCIPLINAS -->
-<h2 align="center">📚 Disciplinas Lecionadas</h2>
-
-<div align="center">
-  <details>
-    <summary><strong>Clique aqui para ver minha experiência docente completa</strong> 👇</summary>
-    <br>
-    <table width="100%" border="0">
-      <tr>
-        <td width="33%" valign="top">
-          <h4>🧮 Matemática & Estatística</h4>
-          <ul>
-            <li>Matemática (Ensino Médio)</li>
-            <li>Nivelamento em Matemática</li>
-            <li>Preparação para o ENEM</li>
-            <li>Matemática como Instrumento de Pesquisa</li>
-            <li>Estatística Aplicada</li>
-            <li>Aprofundamento Integrado de Matemática</li>
-          </ul>
-        </td>
-        <td width="33%" valign="top">
-          <h4>💻 Tecnologia & Programação</h4>
-          <ul>
-            <li>Lógica de Programação</li>
-            <li>Linguagem de Programação (C/Python)</li>
-            <li>Programação Orientada a Objetos</li>
-            <li>Banco de Dados (SQL)</li>
-            <li>Redes de Computadores</li>
-            <li>Cultura Digital e Fundamentos de IA</li>
-          </ul>
-        </td>
-        <td width="33%" valign="top">
-          <h4>💼 Formação Integral & Finanças</h4>
-          <ul>
-            <li>Raciocínio Lógico</li>
-            <li>Educação Financeira</li>
-            <li>Economia, Finanças e Trabalho</li>
-            <li>Empreendedorismo</li>
-            <li>Ferramentas para o Mundo do Trabalho</li>
-          </ul>
-        </td>
-      </tr>
-    </table>
-  </details>
-</div>
-
-<br>
-
-<!-- SEÇÃO DE ESTATÍSTICAS (100% Estável - Sem Gráficos Problemáticos) -->
-<h2 align="center">📊 Atividade no GitHub</h2>
-<p align="center">
-  <!-- Contador de Visitas no Perfil -->
-  <img src="https://komarev.com/ghpvc/?username=allbertsoarez&color=00b3ff&style=for-the-badge&label=Visualiza%C3%A7%C3%B5es+do+Perfil" alt="Visualizações do Perfil" />
-  <br><br>
-  
-  <!-- Badges de Estatísticas (Infalíveis via Shields.io) -->
-  <img src="https://img.shields.io/github/followers/allbertsoarez?style=for-the-badge&logo=github&color=00b3ff&label=Seguidores" alt="Seguidores" />
-  <img src="https://img.shields.io/github/repo-size/allbertsoarez/allbertsoarez?style=for-the-badge&logo=github&color=6366f1&label=Tamanho+do+Perfil" alt="Tamanho do Perfil" />
-  <img src="https://img.shields.io/github/last-commit/allbertsoarez/allbertsoarez?style=for-the-badge&logo=github&color=22c55e&label=%C3%9Altima+Atualiza%C3%A7%C3%A3o" alt="Última Atualização" />
-  <br><br>
-  
-  <!-- Linguagens Mais Usadas (Alternativa Estável) -->
-  <img src="https://img.shields.io/github/languages/count/allbertsoarez/allbertsoarez?style=for-the-badge&logo=github&color=00b3ff&label=Linguagens+no+Perfil" alt="Linguagens" />
-  <img src="https://img.shields.io/github/languages/top/allbertsoarez/allbertsoarez?style=for-the-badge&logo=github&color=6366f1&label=Linguagem+Principal" alt="Linguagem Principal" />
-</p>
-
-<br>
-
-<!-- RODAPÉ VISUAL -->
-<p align="center">
-  <a href="https://github.com/allbertsoarez">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-  </a>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <sub>Feito com 💙, lógica e muito ☕ por <strong>Allbert Soares</strong></sub>
-</p>
+Here are some ideas to get you started:
+👋
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
