@@ -94,11 +94,21 @@
 
 <br>
 
-<!-- SEÇÃO DE ESTATÍSTICAS (Corrigida e Estável) -->
+<!-- SEÇÃO DE ESTATÍSTICAS (100% Estável e Sem Erros) -->
 <h2 align="center">📊 Atividade no GitHub</h2>
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=allbertsoarez&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b3ff&icon_color=00b3ff&text_color=ffffff&bg_color=1a1b27" alt="GitHub Stats" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allbertsoarez&layout=compact&theme=tokyonight&hide_border=true&title_color=00b3ff&text_color=ffffff&bg_color=1a1b27" alt="Top Languages" />
+  <!-- Contador de Visitas no Perfil -->
+  <img src="https://komarev.com/ghpvc/?username=allbertsoarez&color=00b3ff&style=for-the-badge&label=Visualiza%C3%A7%C3%B5es+do+Perfil" alt="Visualizações do Perfil" />
+  <br><br>
+  
+  <!-- Badges de Estatísticas (Infalíveis via Shields.io) -->
+  <img src="https://img.shields.io/github/followers/allbertsoarez?style=for-the-badge&logo=github&color=00b3ff&label=Seguidores" alt="Seguidores" />
+  <img src="https://img.shields.io/github/repo-size/allbertsoarez/allbertsoarez?style=for-the-badge&logo=github&color=6366f1&label=Tamanho+do+Perfil" alt="Tamanho do Perfil" />
+  <img src="https://img.shields.io/github/last-commit/allbertsoarez/allbertsoarez?style=for-the-badge&logo=github&color=22c55e&label=%C3%9Altima+Atualiza%C3%A7%C3%A3o" alt="Última Atualização" />
+  <br><br>
+
+  <!-- Gráfico de Atividade (Alternativa Estável) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=allbertsoarez&theme=react-dark&hide_border=true&area=true&line=00b3ff&point=6366f1" alt="Gráfico de Atividade" width="100%" />
 </p>
 
 <br>
