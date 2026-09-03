@@ -99,7 +99,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=8b949e&bg_color=00000000" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=8b949e&bg_color=00000000" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO_AQUI](https://github.com/allbertsoarez)&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=8b949e&bg_color=00000000" alt="Top Languages" />
 </p>
 
 <br>
