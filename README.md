@@ -1,4 +1,4 @@
-<!-- BANNER VISUAL (Gradiente vibrante e URL segura) -->
+<!-- BANNER VISUAL -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Professor%20de%20Matematica%20%26%20Tecnologia&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:818cf8&height=200&section=header&text=Professor%20de%20Matematica%20%26%20Tecnologia&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
@@ -14,7 +14,7 @@
 
 <br>
 
-<!-- SEÇÃO SOBRE MIM (Layout seguro e limpo) -->
+<!-- SEÇÃO SOBRE MIM -->
 <h2 align="center">👨‍🏫 Sobre Mim</h2>
 <p align="center">
   Olá! Sou educador e entusiasta da tecnologia, unindo a clareza da <strong>Matemática</strong> com o poder da <strong>Programação</strong>.<br>
@@ -34,7 +34,7 @@
 
 <br>
 
-<!-- SEÇÃO DE TECNOLOGIAS (Corrigido) -->
+<!-- SEÇÃO DE TECNOLOGIAS -->
 <h2 align="center">🛠️ Linguagens & Ferramentas</h2>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -46,7 +46,7 @@
 
 <br>
 
-<!-- SEÇÃO DE DISCIPLINAS (Estrutura HTML segura para o GitHub) -->
+<!-- SEÇÃO DE DISCIPLINAS -->
 <h2 align="center">📚 Disciplinas Lecionadas</h2>
 
 <div align="center">
@@ -94,19 +94,18 @@
 
 <br>
 
-<!-- SEÇÃO DE ESTATÍSTICAS -->
+<!-- SEÇÃO DE ESTATÍSTICAS (Corrigida e Estável) -->
 <h2 align="center">📊 Atividade no GitHub</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=8b949e&bg_color=00000000" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO_AQUI](https://github.com/allbertsoarez)&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=8b949e&bg_color=00000000" alt="Top Languages" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=allbertsoarez&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b3ff&icon_color=00b3ff&text_color=ffffff&bg_color=1a1b27" alt="GitHub Stats" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allbertsoarez&layout=compact&theme=tokyonight&hide_border=true&title_color=00b3ff&text_color=ffffff&bg_color=1a1b27" alt="Top Languages" />
 </p>
 
 <br>
 
 <!-- RODAPÉ VISUAL -->
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO_AQUI">
+  <a href="https://github.com/allbertsoarez">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
   <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI">
@@ -120,5 +119,5 @@
 <br>
 
 <p align="center">
-  <sub>Feito com 💙, lógica e muito ☕ por <strong>[Seu Nome]</strong></sub>
+  <sub>Feito com 💙, lógica e muito ☕ por <strong>Allbert Soares</strong></sub>
 </p>
