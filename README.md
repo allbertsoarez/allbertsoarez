@@ -94,7 +94,7 @@
 
 <br>
 
-<!-- SEÇÃO DE ESTATÍSTICAS (100% Estável e Sem Erros) -->
+<!-- SEÇÃO DE ESTATÍSTICAS (100% Estável - Sem Gráficos Problemáticos) -->
 <h2 align="center">📊 Atividade no GitHub</h2>
 <p align="center">
   <!-- Contador de Visitas no Perfil -->
@@ -106,9 +106,10 @@
   <img src="https://img.shields.io/github/repo-size/allbertsoarez/allbertsoarez?style=for-the-badge&logo=github&color=6366f1&label=Tamanho+do+Perfil" alt="Tamanho do Perfil" />
   <img src="https://img.shields.io/github/last-commit/allbertsoarez/allbertsoarez?style=for-the-badge&logo=github&color=22c55e&label=%C3%9Altima+Atualiza%C3%A7%C3%A3o" alt="Última Atualização" />
   <br><br>
-
-  <!-- Gráfico de Atividade (Alternativa Estável) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=allbertsoarez&theme=react-dark&hide_border=true&area=true&line=00b3ff&point=6366f1" alt="Gráfico de Atividade" width="100%" />
+  
+  <!-- Linguagens Mais Usadas (Alternativa Estável) -->
+  <img src="https://img.shields.io/github/languages/count/allbertsoarez/allbertsoarez?style=for-the-badge&logo=github&color=00b3ff&label=Linguagens+no+Perfil" alt="Linguagens" />
+  <img src="https://img.shields.io/github/languages/top/allbertsoarez/allbertsoarez?style=for-the-badge&logo=github&color=6366f1&label=Linguagem+Principal" alt="Linguagem Principal" />
 </p>
 
 <br>
