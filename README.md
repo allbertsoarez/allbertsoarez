@@ -1,8 +1,8 @@
 # Olá! Eu sou o [Seu Nome Completo] 👋
 
-### 👨‍🏫 Professor de Matemática e Informática | Especialista em Tecnologia Educacional
+### 👨‍🏫 Professor de Matemática & Informática | Especialista em Tecnologia Educacional
 
-Sou um educador apaixonado por conectar a lógica da **Matemática** com o poder de transformação da **Tecnologia**. Atuo na rede pública de ensino, desenvolvendo projetos que unem computação, inteligência artificial e iniciação científica para transformar a educação básica.
+Sou um educador apaixonado por conectar a lógica da **Matemática** com o poder de transformação da **Tecnologia**. Atuo na rede pública de ensino, desenvolvendo projetos que unem computação de baixo nível, inteligência artificial e iniciação científica para transformar a educação básica.
 
 ---
 
@@ -16,33 +16,32 @@ Sou um educador apaixonado por conectar a lógica da **Matemática** com o poder
 
 ## 🛠️ Tecnologias e Habilidades
 
-### 📐 Educação & STEM (Ciência, Tecnologia e Matemática)
+### 💻 Desenvolvimento, Dados & Infraestrutura
 <p align="left">
-  <img src="https://shields.io" alt="GeoGebra">
-  <img src="https://shields.io" alt="LaTeX">
-  <img src="https://shields.io" alt="Estatística">
-  <img src="https://shields.io" alt="Educação Financeira">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" alt="Desenvolvimento e Infraestrutura" />
+  </a>
 </p>
 
 ### 🤖 Inteligência Artificial & Agentes
 <p align="left">
-  <img src="https://shields.io" alt="ChatGPT">
-  <img src="https://shields.io" alt="Gemini">
-  <img src="https://shields.io" alt="DeepSeek">
-  <img src="https://shields.io" alt="Qwen">
-  <img src="https://shields.io" alt="Agentes">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" alt="Inteligência Artificial" />
+  </a>
 </p>
 
-### 💻 Desenvolvimento & Dados
+### 📐 Educação, STEM & Documentação
 <p align="left">
-  <img src="https://shields.io" alt="Python">
-  <img src="https://shields.io" alt="C">
-  <img src="https://shields.io" alt="SQL">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" alt="Documentação" />
+  </a>
+  <!-- Ícones complementares de ferramentas educacionais específicas -->
+  <img src="https://shields.io" alt="GeoGebra">
+  <img src="https://shields.io" alt="Estatística">
 </p>
 
-### 🔌 Infraestrutura & Hardware
+### 🔌 Hardware & Telecomunicações
 <p align="left">
-  <img src="https://shields.io" alt="Linux">
   <img src="https://shields.io" alt="Telecom">
   <img src="https://shields.io⚡-yellow?style=for-the-badge" alt="Eletrônica">
 </p>
@@ -61,8 +60,5 @@ Sou um educador apaixonado por conectar a lógica da **Matemática** com o poder
 
 Se você se interessa por tecnologia assistiva, IA na educação ou metodologias STEM, fique à vontade para acompanhar meus repositórios ou entrar em contato!
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/allbertsoarez
-- 📧 **E-mail:** albert.soares@educacao.mg.gov.br
-
-
-
+- 💼 **LinkedIn:** [Insira o link do seu LinkedIn aqui]
+- 📧 **E-mail:** [Insira seu e-mail de contato aqui]
