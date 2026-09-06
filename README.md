@@ -45,6 +45,12 @@ Sou um educador apaixonado por conectar a lógica da **Matemática** com o poder
   <img src="https://shields.io" alt="Eletrônica">
 </p>
 
+### 🔌 Hardware & Telecomunicações
+<p align="left">
+  <img src="https://shields.io" alt="Telecom">
+  <img src="https://shields.io" alt="Eletrônica">
+</p>
+
 ---
 
 ## 📈 Projetos e Linhas de Atuação
