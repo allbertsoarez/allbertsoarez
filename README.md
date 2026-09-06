@@ -1,3 +1,5 @@
+![My Skills](https://skillicons.dev/icons?i=python,linux,c,sql,ai)
+
 # Olá! Eu sou o Albert Soares 👋
 
 ### 👨‍🏫 Professor de Matemática & Informática | Especialista em Tecnologia Educacional
