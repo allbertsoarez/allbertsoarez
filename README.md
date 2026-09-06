@@ -5,7 +5,7 @@ Sou um educador apaixonado por conectar a lógica da **Matemática** com o poder
 <br>
 - 🎓 **Licenciatura em Matemática**
 - 💻 **Pós-Graduado em Sistemas de Informação**
-- 📡 **Tecnólogo em Telecomunicações**
+-  **Tecnólogo em Telecomunicações**
 
 ## 🔬 Interesses de Pesquisa
 - 📚 Iniciação Científica na educação básica
@@ -16,9 +16,7 @@ Sou um educador apaixonado por conectar a lógica da **Matemática** com o poder
 
 ## 💻 Tecnologias
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,linux,ai,git,github,latex,md,obsidian,vscode&theme=dark&perline=5" alt="Minhas Tecnologias" />
-  <br>
-  
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,linux,ai,git,github,latex,md,obsidian,vscode&theme=dark" alt="Minhas Tecnologias" />
 </div>
 
 ## 📬 Contato
