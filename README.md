@@ -1,4 +1,4 @@
-# Olá! Eu sou o [Seu Nome Completo] 👋
+# Olá! Eu sou o Albert Soares 👋
 
 ### 👨‍🏫 Professor de Matemática & Informática | Especialista em Tecnologia Educacional
 
@@ -9,55 +9,19 @@ Sou um educador apaixonado por conectar a lógica da **Matemática** com o poder
 ## 🚀 Sobre Mim
 
 - 🎓 **Minha Base:** Licenciatura em Matemática, Pós-Graduado em Sistemas de Informação e Tecnólogo em Telecomunicações.
+
 - 💡 **Minha Missão:** Levar tecnologia de ponta para a escola pública, mostrando que programação, Linux e Inteligência Artificial são ferramentas de emancipação digital.
+
 - 🔬 **Interesses de Pesquisa:** Iniciação Científica na educação básica, Estatística aplicada, Educação Financeira e Modelagem Matemática com GeoGebra.
-
----
-
-## 🛠️ Tecnologias e Habilidades
-
-### 💻 Desenvolvimento, Dados & Infraestrutura
-[![Desenvolvimento e Infraestrutura](https://skillicons.dev)](https://skillicons.dev)
-
-### 🤖 Inteligência Artificial & Agentes
-[![Inteligência Artificial](https://skillicons.dev)](https://skillicons.dev)
-
-### 📐 Educação, STEM & Documentação
-[![Documentação](https://skillicons.dev)](https://skillicons.dev)
-![GeoGebra](https://shields.io)
-![Estatística](https://shields.io)
-
-### 🔌 Hardware & Telecomunicações
-![Telecom](https://shields.io)
-![Eletrônica](https://shields.io)
-
-### 📐 Educação, STEM & Documentação
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="Documentação" />
-  </a>
-  <img src="https://shields.io" alt="GeoGebra">
-  <img src="https://shields.io" alt="Estatística">
-</p>
-
-### 🔌 Hardware & Telecomunicações
-<p align="left">
-  <img src="https://shields.io" alt="Telecom">
-  <img src="https://shields.io" alt="Eletrônica">
-</p>
-
-### 🔌 Hardware & Telecomunicações
-<p align="left">
-  <img src="https://shields.io" alt="Telecom">
-  <img src="https://shields.io" alt="Eletrônica">
-</p>
 
 ---
 
 ## 📈 Projetos e Linhas de Atuação
 
 - **Iniciação Científica na Escola:** Orientação de estudantes em projetos que utilizam lógica e código para resolver problemas reais comunitários.
+
 - **Matemática Computacional:** Criação de laboratórios práticos e simulações utilizando Python e GeoGebra para o ensino de geometria e funções.
+
 - **Laboratório Linux:** Implementação e administração de ambientes operacionais baseados em código aberto para escolas públicas.
 
 ---
