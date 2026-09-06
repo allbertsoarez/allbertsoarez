@@ -1,7 +1,8 @@
 # 👨‍🏫 Allbert Soares
 
 ## 👤 Sobre mim
-Sou um educador apaixonado por conectar a lógica da **Matemática** com o poder de transformação da **Tecnologia**. Atuo na rede pública de ensino, inteligência artificial e iniciação científica para transformar a educação básica.
+Sou professor da rede estadual de Minas Gerais, onde leciono Matemática e Informática. Como educador, sou apaixonado por conectar a lógica da Matemática ao poder transformador da Tecnologia. Minha missão é integrar a inteligência artificial e a iniciação científica à sala de aula, inovando e transformando a realidade da educação básica.
+
 <br>
 - 🎓 **Licenciatura em Matemática**
 - 💻 **Pós-Graduado em Sistemas de Informação**
