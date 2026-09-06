@@ -16,7 +16,7 @@ Sou um educador apaixonado por conectar a lógica da **Matemática** com o poder
 
 ## 💻 Tecnologias
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,linux,pytorch&theme=dark&perline=5" alt="Minhas Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,linux,ai&theme=dark&perline=5" alt="Minhas Tecnologias" />
   <br>
   <sub><i>(Nota: O ícone <b>pytorch</b> foi utilizado para representar <b>IA</b>, pois o Skill Icons não possui um ícone genérico "ai". Se preferir, você pode substituir na URL por <b>tensorflow</b> ou <b>opencv</b>.)</i></sub>
 </div>
