@@ -34,5 +34,5 @@ Sou um educador apaixonado por conectar a lógica da **Matemática** com o poder
 
 Se você se interessa por tecnologia assistiva, IA na educação ou metodologias STEM, fique à vontade para acompanhar meus repositórios ou entrar em contato!
 
-- 💼 **LinkedIn:** [Insira o link do seu LinkedIn aqui]
-- 📧 **E-mail:** [Insira seu e-mail de contato aqui]
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/allbertsoarez/]
+- 📧 **E-mail:** allbertsoarez@gmail.com
