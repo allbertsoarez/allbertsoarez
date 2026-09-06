@@ -33,5 +33,11 @@ Se você se interessa por tecnologia assistiva, IA na educação ou metodologias
 - 💼 **LinkedIn:** [Insira o link do seu LinkedIn aqui]
 - 📧 **E-mail:** [Insira seu e-mail de contato aqui]
 
+---
+> Eu acho que as almas mais bonitas são aquelas que permanecem gentis depois de tudo o que sobreviveram. Elas têm todos os motivos para se tornarem frias, mas ainda assim escolhem a bondade, ainda escolhem o amor, ainda acreditam que as pessoas podem ser melhores.
+> 
+> **Dostoiévski**
+
+
 
 
