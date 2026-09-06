@@ -2,7 +2,11 @@
 
 ### 👨‍🏫 Professor de Matemática & Informática | Especialista em Tecnologia Educacional
 
-Sou um educador apaixonado por conectar a lógica da **Matemática** com o poder de transformação da **Tecnologia**. Atuo na rede pública de ensino, desenvolvendo projetos que unem computação de baixo nível, inteligência artificial e iniciação científica para transformar a educação básica.
+Sou um educador apaixonado por conectar a lógica da **Matemática** com o poder de transformação da **Tecnologia**. Atuo na rede pública de ensino, inteligência artificial e iniciação científica para transformar a educação básica.
+
+> Eu acho que as almas mais bonitas são aquelas que permanecem gentis depois de tudo o que sobreviveram. Elas têm todos os motivos para se tornarem frias, mas ainda assim escolhem a bondade, ainda escolhem o amor, ainda acreditam que as pessoas podem ser melhores.
+> 
+> **Dostoiévski**
 
 ---
 
@@ -32,12 +36,3 @@ Se você se interessa por tecnologia assistiva, IA na educação ou metodologias
 
 - 💼 **LinkedIn:** [Insira o link do seu LinkedIn aqui]
 - 📧 **E-mail:** [Insira seu e-mail de contato aqui]
-
----
-> Eu acho que as almas mais bonitas são aquelas que permanecem gentis depois de tudo o que sobreviveram. Elas têm todos os motivos para se tornarem frias, mas ainda assim escolhem a bondade, ainda escolhem o amor, ainda acreditam que as pessoas podem ser melhores.
-> 
-> **Dostoiévski**
-
-
-
-
