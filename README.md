@@ -17,18 +17,19 @@ Sou um educador apaixonado por conectar a lógica da **Matemática** com o poder
 ## 🛠️ Tecnologias e Habilidades
 
 ### 💻 Desenvolvimento, Dados & Infraestrutura
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="Desenvolvimento e Infraestrutura" />
-  </a>
-</p>
+[![Desenvolvimento e Infraestrutura](https://skillicons.dev)](https://skillicons.dev)
 
 ### 🤖 Inteligência Artificial & Agentes
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="Inteligência Artificial" />
-  </a>
-</p>
+[![Inteligência Artificial](https://skillicons.dev)](https://skillicons.dev)
+
+### 📐 Educação, STEM & Documentação
+[![Documentação](https://skillicons.dev)](https://skillicons.dev)
+![GeoGebra](https://shields.io)
+![Estatística](https://shields.io)
+
+### 🔌 Hardware & Telecomunicações
+![Telecom](https://shields.io)
+![Eletrônica](https://shields.io)
 
 ### 📐 Educação, STEM & Documentação
 <p align="left">
