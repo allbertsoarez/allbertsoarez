@@ -1,10 +1,17 @@
 # SOBRE
 ## Eu me chamo Albert Soares, sou professor da rede estadual de Minas Gerais, onde leciono aulas de matemática e informática.
 
+
 <!--
 **allbertsoarez/allbertsoarez** é um ✨ _special_ ✨ repositório especial: o seu `README.md` (this file) aparecerá no seu perfil do GitHUb.
 
 Here are some ideas to get you started:
+"Eu acho que as almas mais bonitas são aquelas que permanecem gentis depois de tudo o que sobreviveram.
+Elas têm todos os motivos para se tornarem frias, mas ainda assim escolhem a bondade, ainda escolhem o amor, ainda acreditam que as pessoas podem ser melhores."
+
+**Dostoiévski**
+
+💡 
 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
