@@ -1,4 +1,4 @@
-# 👨‍🏫 Allbert Soares
+# 👨‍🏫 Albert Soares
 
 ## 👤 Sobre mim
 Sou professor da rede estadual de Minas Gerais, onde leciono Matemática e Informática. Como educador, sou apaixonado por conectar a lógica da Matemática ao poder transformador da Tecnologia. Minha missão é integrar a inteligência artificial e a iniciação científica à sala de aula, inovando e transformando a realidade da educação básica.<br>
